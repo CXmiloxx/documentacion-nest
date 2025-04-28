@@ -144,5 +144,5 @@ Nest está licenciado bajo [MIT](https://github.com/nestjs/nest/blob/master/LICE
 ---
 
 ### 🔔 Ahora solo faltaría que me pases los **links correctos de Drive** para reemplazar:
-- `[https://drive.google.com/your-nestjs-link](https://docs.google.com/document/d/1VQYLzMbe6XO0iuAWM57X86CGdzXCejXYaMOypbiMET4/edit?usp=sharing)`
-- `[https://drive.google.com/your-prisma-link](https://docs.google.com/document/d/1QeBDrdhvoT56wMSUuL09uK8bahqzg-S4OzRlvfZjm6g/edit?usp=sharing)`
+- `(https://docs.google.com/document/d/1VQYLzMbe6XO0iuAWM57X86CGdzXCejXYaMOypbiMET4/edit?usp=sharing)`
+- `(https://docs.google.com/document/d/1QeBDrdhvoT56wMSUuL09uK8bahqzg-S4OzRlvfZjm6g/edit?usp=sharing)`
