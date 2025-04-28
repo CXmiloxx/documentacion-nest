@@ -4,7 +4,18 @@
   <img src="https://nestjs.com/img/logo-small.svg" width="100" alt="NestJS Logo" />
   
   <h1>NestJS🚀</h1>
-  <p><strong>Framework progresivo para construir aplicaciones Node.js eficientes y escalables.</strong></p>
+  <p><strong>NestJS es un framework para construir aplicaciones backend (servidores) usando Node.js con TypeScript (aunque también puedes usar JavaScript).
+Su objetivo es hacer que construir APIs o aplicaciones del lado del servidor sea más organizado, más escalable y más fácil de mantener.
+
+Está inspirado en los conceptos de:
+
+Angular (estructura basada en módulos y decoradores)
+
+Spring (de Java)
+
+.NET Core (de Microsoft)
+
+Por eso, si ves NestJS, notarás que todo está muy organizado en controladores, servicios, módulos.</strong></p>
 </div>
 
 ---
@@ -67,7 +78,6 @@ mau deploy
 # 👨‍💻 Autor
 
 **Camilo Guapacha**  
-[Twitter @kammysliwiec](https://twitter.com/kammysliwiec)
 
 ---
 
