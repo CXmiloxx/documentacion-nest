@@ -112,37 +112,13 @@ $ mau deploy
 
 # 📚 Explicaciones Detalladas (Drive)
 
-- 🔗 [Explicación detallada de NestJS](https://drive.google.com/your-nestjs-link)
-- 🔗 [Explicación detallada de Prisma](https://drive.google.com/your-prisma-link)
+- 🔗 [[Explicación detallada de NestJS](https://docs.google.com/document/d/1VQYLzMbe6XO0iuAWM57X86CGdzXCejXYaMOypbiMET4/edit?usp=sharing)]
+- 🔗 [[Explicación detallada de Prisma](https://docs.google.com/document/d/1QeBDrdhvoT56wMSUuL09uK8bahqzg-S4OzRlvfZjm6g/edit?usp=sharing)
 
 ---
 
-# ❤️ Apoyo
-
-NestJS es un proyecto de código abierto licenciado bajo MIT. Puedes apoyarlo uniéndote como [sponsor o backer aquí](https://docs.nestjs.com/support).
-
----
 
 # 👤 Autor
 
-- Autor: [Kamil Myśliwiec](https://twitter.com/kammysliwiec)
+- Autor: [Camilo Guapacha](https://twitter.com/kammysliwiec)
 - Sitio web: [nestjs.com](https://nestjs.com/)
-- Twitter: [@nestframework](https://twitter.com/nestframework)
-
----
-
-# 📝 Licencia
-
-Nest está licenciado bajo [MIT](https://github.com/nestjs/nest/blob/master/LICENSE).
-
----
-
-# 🔥 Notas
-
-> Esta documentación mejora la comprensión inicial de NestJS y proporciona recursos para aprender más profundamente sobre su arquitectura y el uso de Prisma como ORM.
-
----
-
-### 🔔 Ahora solo faltaría que me pases los **links correctos de Drive** para reemplazar:
-- `(https://docs.google.com/document/d/1VQYLzMbe6XO0iuAWM57X86CGdzXCejXYaMOypbiMET4/edit?usp=sharing)`
-- `(https://docs.google.com/document/d/1QeBDrdhvoT56wMSUuL09uK8bahqzg-S4OzRlvfZjm6g/edit?usp=sharing)`
